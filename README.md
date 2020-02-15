@@ -14,3 +14,6 @@ No commercial use You may not use this document for commercial purposes (contact
 No derivatives You may not alter, transform, or build upon this document (contact us if necessary).
 
 The full legal license grant can be found at http://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
+
+## Updated: 
+The PDF file of the thesis content has been added to the repository.
