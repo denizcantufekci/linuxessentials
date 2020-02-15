@@ -17,3 +17,4 @@ The full legal license grant can be found at http://creativecommons.org/licenses
 
 ## Updated: 
 The PDF file of the thesis content has been added to the repository.
+To view the PDF: https://github.com/denizcantufekci/linuxessentials/blob/master/linuxessentials.pdf
